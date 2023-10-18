@@ -1,0 +1,14 @@
+.container {
+  border: 1px solid #6c757d;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+}
+h1 {
+  display: inline;
+}
+h2 {
+  font-weight: bold;
+  font-size: 60px;
+}
